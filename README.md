@@ -19,9 +19,6 @@ Python версии 3.7 или выше
 
 Установка
 
-Клонируйте репозиторий:
-
-  git clone https://github.com/username/russian-telegram-bot.git
 
 Установите необходимые пакеты:
 
